@@ -1,0 +1,11 @@
+target/
+!target/*.jar
+*~
+*.swp
+.idea
+.vscode
+.classpath
+.project
+.settings/
+*.log
+tests/jmeter/results/
